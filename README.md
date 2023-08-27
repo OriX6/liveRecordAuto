@@ -11,8 +11,9 @@
 - APP分享链接【直播间分享/主页分享】: https://v.kuaishou.com/xxx
 - PC直播页链接: https://live.kuaishou.com/xxxx
 - PC主播主页链接: https://live.kuaishou.com/profile/xxx
-## 下载地址
-[奶牛快传](https://cowtransfer.com/s/ff265c6a8c8a43)
+## 下载
+- 点击release下载
+- [奶牛快传 永久地址 更新也是这个地址](https://cowtransfer.com/s/ff265c6a8c8a43)
 
 ## 基本界面
 ![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/47015e08-eb11-408f-9a30-b23a3cb7382d)
@@ -22,9 +23,11 @@
 ## 参考项目
 * https://github.com/Evil0ctal/Douyin_TikTok_Download_API
 * https://github.com/Johnserf-Seed/TikTokDownload
-* https://github.com/davidteather/TikTok-Api
+* https://github.com/JoeanAmier/TikTokDownloader/
 * https://requests.readthedocs.io/en/latest/
 * https://dormousehole.readthedocs.io/en/latest/
 * https://github.com/B1gM8c/X-Bogus
 * https://github.com/aithedev/X-Bogus
 * https://html5up.net/hyperspace
+
+## 有问题可以提issue ，后续我会在这里不断更新 欢迎Star

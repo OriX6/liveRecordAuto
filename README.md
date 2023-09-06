@@ -1,8 +1,8 @@
 # liveRecordAuto
-基于 Electron 的多平台直播自动录制软件 支持抖音/快手 多链接形式
+基于 Electron 的多平台直播自动录制软件 支持抖音/快手 多链接形式   永久免费
 ## 已支持链接格式
 ### 抖音
-- 主播的【抖音号】【推荐】:xxxx
+- 主播的【抖音号】【推荐】:xxxx   【优先使用这个 路径更短】
 - APP分享链接【直播间分享/开播中的主页分享】: https://v.douyin.com/xxxxx
 - PC直播页链接: https://live.douyin.com/xxxx
 - PC主页链接【暂时只支持开播中的】: https://www.douyin.com/user/xxxx

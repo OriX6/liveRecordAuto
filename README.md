@@ -20,7 +20,8 @@
 
 ## 基本界面
 ![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/47015e08-eb11-408f-9a30-b23a3cb7382d)
-![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/f8869a33-0001-45f4-a3c2-54c3825ab1c2)
+![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/4769a08b-c246-4694-96c3-be468faf9c77)
+
 
 
 ## 参考项目

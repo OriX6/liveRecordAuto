@@ -17,6 +17,7 @@
 - PC主播主页链接: https://live.kuaishou.com/profile/xxx
 ## 下载
 - 点击release下载
+- [蓝奏云下载  永久地址 更新也是这个地址](https://orix.lanzoue.com/s/lzfp)
 - [奶牛快传 永久地址 更新也是这个地址](https://cowtransfer.com/s/ff265c6a8c8a43)
 
 ## 基本界面
